@@ -42,4 +42,5 @@ func Init(r *gin.Engine) {
 		properties.POST("GetAllProperties", c.GetAllProperties)
 		properties.POST("DeleteProperty", c.DeleteProperty)
 	}
+	//Done Push Again
 }
